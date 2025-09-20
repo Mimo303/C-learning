@@ -1,3 +1,5 @@
+// finding vowel or consonant using switch case ;
+
 #include<stdio.h>
 int main(){
     char vowel;
@@ -17,6 +19,6 @@ int main(){
         printf("%c is a vowel.",vowel);
         break;
         default:
-        printf(" %c The alphabet is a consonant.",vowel);
+        printf(" %c  is a consonant.",vowel);
     }
 }
