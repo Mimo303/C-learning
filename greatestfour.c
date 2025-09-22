@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 
-/*int max(int a, int b) {
+int max(int a, int b) {
     if (a > b) {
         return a;
     } else {
         return b;
     }
-}*/
+}
 
 /*
  * This function takes four integers and returns the greatest of them.
