@@ -19,7 +19,7 @@ int main(){
 
     printf("Array after reversing:\n");
 
-    for(i=4;i>=0;i--){
+    for(i=4;i>=0;i--){                  /*The loop starts at i=5, so arr[5] is out of bounds (undefined behavior).The loop should start at i=4 and go down to i=0.*/
         printf(" %d  ",arr[i]);
     }
 }
