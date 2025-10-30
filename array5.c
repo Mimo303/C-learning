@@ -1,3 +1,9 @@
+/*
+ 2. Create a program that initializes an array with 10 integers and �nds the maximum and
+ minimum values in the array.
+*/
+
+
 #include<stdio.h>
 int main(){
     int arr[10],i,maxx=0,minn;

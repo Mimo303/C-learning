@@ -1,4 +1,4 @@
-/*2.(Factorial)    Ask the user for a number and calculate its factorial using a while loop. (The factorial of
+/*2.(Factorial)    Ask the user for a number and calculate its factorial using for loop. (The factorial of
  a non-negative integer n, denoted by n!, is the product of all positive integers less than
  or equal to n)*/
 
